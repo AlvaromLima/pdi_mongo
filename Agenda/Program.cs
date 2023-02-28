@@ -11,7 +11,7 @@ namespace Agenda
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Projeto Agenda");
+            Console.WriteLine("Projeto Agenda 2.0");
 
             //Conectar o servidor mongodb
             Console.WriteLine("Conectando o servidor");
